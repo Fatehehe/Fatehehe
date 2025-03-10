@@ -5,7 +5,7 @@ I'm a passionate **Software Engineer** with a strong interest in **Game Developm
 
 ## 🏆 Experience & Achievements
 - **🦾 Gadjah Mada Robotics Team** (Software Engineer, 2 Years)  
-  Contributed to developing autonomous robotic systems and intelligent algorithms for national and international robotics competitions.
+  Contributed to developing autonomous robotic systems and intelligent algorithms for regional robotics competitions.
 - **🍏 Apple Developer Academy – Infinite Learning Cohort 2024**  
   Graduated from the academy after spending 10 months developing innovative iOS applications, focusing on user-centered design and impactful solutions.
 - **🌐 Lead of Web Development Division – Elins Research Club**  
