@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Fatih
 
 ## 🚀 About Me
 I'm a passionate **Software Engineer** with a strong interest in **Game Development, iOS Development, Robotics, IoT, Web Development, UI/UX, and Computer Vision**. With hands-on experience in multiple domains, I enjoy building innovative solutions that bridge software and hardware.
@@ -15,26 +15,4 @@ I'm a passionate **Software Engineer** with a strong interest in **Game Developm
   - Micro-sleep detection system using computer vision & ML 🚘
   - IoT-based smart automation for real-world applications 🌍
   - Game development projects blending education with entertainment 🎮
-  - UI/UX research and design to improve user experiences 🖌️
-
-## 💻 Tech Stack & Skills
-### 🔹 Programming & Development
-- Swift (iOS Development, SwiftUI, SpriteKit)
-- Python (AI, ML, Computer Vision, Robotics)
-- JavaScript & TypeScript (Web Development, Frontend & Backend)
-- C++ (Embedded Systems, Robotics)
-- HTML, CSS, React.js, Node.js
-
-### 🔹 Tools & Frameworks
-- Swift Playgrounds, Xcode, UIKit, CoreML
-- ROS (Robot Operating System), OpenCV, TensorFlow
-- Firebase, MongoDB, SQL
-- Figma, Adobe XD (UI/UX Design)
-
-### 🔹 Areas of Expertise
-- iOS & Game Development 🎮
-- Robotics & IoT 🤖
-- Web & Mobile Development 📱
-- Computer Vision & AI 👀
-- UI/UX Design 🎨
-🚀 Let's build something amazing together!
+  - UI/UX research and design to improve user experiences 🖌
